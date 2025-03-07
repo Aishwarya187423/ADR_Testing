@@ -1,9 +1,9 @@
-<b>ADR: Choosing PHP and Laravel for Web Application Development<b>
+#ADR: Choosing PHP and Laravel for Web Application Development
 
-Status
+**Status**
 - Accepted
 
-Context
+**Context**
 - We need to build a scalable web application with a strong backend and a structured development framework. The application requires rapid development, robust security, and a well-maintained ecosystem. We considered multiple options, including Node.js, Python (Django), and Ruby on Rails, but PHP with Laravel stands out due to its ecosystem, community support, and ease of use.
 
 Decision
