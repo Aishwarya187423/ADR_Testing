@@ -16,7 +16,7 @@
 - Strong community support and extensive documentation.
 - PHP is widely supported across hosting services.
 - Laravel’s security features (CSRF protection, SQL injection prevention) improve security.
-- Seamless integration with MySQL, PostgreSQL, and Redis.
+- Seamless integration with MySQL.
 
 **- Negative:**
 
